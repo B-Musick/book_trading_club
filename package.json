@@ -1,0 +1,23 @@
+{
+  "name": "book_trading_club",
+  "version": "1.0.0",
+  "description": "Book trading app, lets you create account, add books, trade with users, give book synopsis'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Musick/book_trading_club.git"
+  },
+  "keywords": [
+    "book",
+    "trade"
+  ],
+  "author": "Brendan A Musick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-Musick/book_trading_club/issues"
+  },
+  "homepage": "https://github.com/B-Musick/book_trading_club#readme"
+}
